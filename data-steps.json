@@ -1,14 +1,14 @@
 [
 	{ 
-	  id: "dgbd gdgd gdgs", 
-	  description: "Entender o problema do cliente" 
+	  "id": "dgbd gdgd gdgs", 
+	  "description": "Entender o problema do cliente" 
 	},
 	{
-	  id: "hjdf lhte ihts",
-	  description: "Desenvolver a solução do problema",
+	  "id": "hjdf lhte ihts",
+	  "description": "Desenvolver a solução do problema",
 	},
 	{
-	  id: "osdh jfdb liot",
-	  description: "Repetir até o cliente ficar feliz e encher seu 🍑 de dinheiro",
+	  "id": "osdh jfdb liot",
+	  "description": "Repetir até o cliente ficar feliz e encher seu 🍑 de dinheiro",
 	}
 ]
